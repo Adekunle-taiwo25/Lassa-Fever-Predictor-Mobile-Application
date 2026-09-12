@@ -1,0 +1,24 @@
+[08-Apr-2025 13:31:14 UTC] PHP Fatal error:  Uncaught TypeError: DatabaseHandler::getConnection(): Return value must be of type object, null returned in /home/tbomlrhl/lassa-fever-project.akitechub.com/models/DatabaseHandler.php:36
+Stack trace:
+#0 /home/tbomlrhl/lassa-fever-project.akitechub.com/controllers/AuthController.php(44): DatabaseHandler->getConnection()
+#1 /home/tbomlrhl/lassa-fever-project.akitechub.com/login.php(8): AuthController->login()
+#2 {main}
+  thrown in /home/tbomlrhl/lassa-fever-project.akitechub.com/models/DatabaseHandler.php on line 36
+[08-Apr-2025 13:32:16 UTC] PHP Fatal error:  Uncaught TypeError: DatabaseHandler::getConnection(): Return value must be of type object, null returned in /home/tbomlrhl/lassa-fever-project.akitechub.com/models/DatabaseHandler.php:36
+Stack trace:
+#0 /home/tbomlrhl/lassa-fever-project.akitechub.com/controllers/AuthController.php(44): DatabaseHandler->getConnection()
+#1 /home/tbomlrhl/lassa-fever-project.akitechub.com/login.php(8): AuthController->login()
+#2 {main}
+  thrown in /home/tbomlrhl/lassa-fever-project.akitechub.com/models/DatabaseHandler.php on line 36
+[08-Apr-2025 13:49:51 UTC] PHP Fatal error:  Uncaught TypeError: DatabaseHandler::getConnection(): Return value must be of type object, null returned in /home/tbomlrhl/lassa-fever-project.akitechub.com/models/DatabaseHandler.php:36
+Stack trace:
+#0 /home/tbomlrhl/lassa-fever-project.akitechub.com/controllers/AuthController.php(44): DatabaseHandler->getConnection()
+#1 /home/tbomlrhl/lassa-fever-project.akitechub.com/login.php(8): AuthController->login()
+#2 {main}
+  thrown in /home/tbomlrhl/lassa-fever-project.akitechub.com/models/DatabaseHandler.php on line 36
+[08-Apr-2025 13:50:26 UTC] PHP Fatal error:  Uncaught TypeError: DatabaseHandler::getConnection(): Return value must be of type object, null returned in /home/tbomlrhl/lassa-fever-project.akitechub.com/models/DatabaseHandler.php:36
+Stack trace:
+#0 /home/tbomlrhl/lassa-fever-project.akitechub.com/controllers/AuthController.php(44): DatabaseHandler->getConnection()
+#1 /home/tbomlrhl/lassa-fever-project.akitechub.com/login.php(8): AuthController->login()
+#2 {main}
+  thrown in /home/tbomlrhl/lassa-fever-project.akitechub.com/models/DatabaseHandler.php on line 36
